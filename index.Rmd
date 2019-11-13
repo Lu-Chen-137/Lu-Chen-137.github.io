@@ -1,0 +1,20 @@
+---
+title: "Welcome to Kelly's website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Most welcoming hello to you
+
+![](https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif)
+
+# Self-introduce
+You are so lukcy to find me. So let me introduce myself a little bit more.
+
+![](https://media.giphy.com/media/QQkyLVLAbQRKU/giphy.gif)
+
+
+My full name is Lu Chen. You can call me Lu or Kelly, whatever you want. 
